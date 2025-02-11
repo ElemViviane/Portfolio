@@ -1,6 +1,5 @@
 # Portfolio
-<h1>Esta é a codificação do meu portfólio, que fiz para que me conheça melhor.
-    O link para entrar está no meu perfil inicial.</h1>
+<h1>O link para entrar está no meu perfil inicial.</h1>
 
 ## Tecnologias que utilizei: 
 
